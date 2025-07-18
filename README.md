@@ -38,17 +38,18 @@ cd automated-scanner
   ```bash
   sudo apt install nmap nikto whatweb wafw00f sslyze gobuster subfinder amass metasploit-framework
 ```
-2. Install Python Dependencies
+### 2. Install Python Dependencies
    ```bash
    pip install -r requirements.txt
    ```
    Note that you should set up python environment for pip installation
 
-   USAGE
+   ### USAGE
    ```
    python3 scanner.py
    ```
-   Ethical Use Policy ⚖️🔒
+###Ethical Use Policy ⚖️🔒
+
 Legal & Ethical Requirements
 Professional Ethics
 Explicit Consent
