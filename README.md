@@ -48,6 +48,8 @@ cd automated-scanner
    ```
    python3 scanner.py
    ```
+  So you should be root user or super user in order to run this code
+  
 Ethical Use Policy ⚖️🔒
 
 Legal & Ethical Requirements
