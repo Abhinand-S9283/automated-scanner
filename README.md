@@ -48,7 +48,7 @@ cd automated-scanner
    ```
    python3 scanner.py
    ```
-###Ethical Use Policy ⚖️🔒
+Ethical Use Policy ⚖️🔒
 
 Legal & Ethical Requirements
 Professional Ethics
