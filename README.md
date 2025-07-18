@@ -37,3 +37,37 @@ cd automated-scanner
 - Required tools:
   ```bash
   sudo apt install nmap nikto whatweb wafw00f sslyze gobuster subfinder amass metasploit-framework
+```
+2. Install Python Dependencies
+   ```bash
+   pip install -r requirements.txt
+   ```
+   Note that you should set up python environment for pip installation
+
+   USAGE
+   ```
+   python3 scanner.py
+   ```
+   Ethical Use Policy ⚖️🔒
+Legal & Ethical Requirements
+Professional Ethics
+Explicit Consent
+📝 Always obtain written authorization before scanning any system
+
+Responsible Disclosure
+🕵️‍♂️ Report found vulnerabilities privately to system owners
+
+Data Protection
+🔐 Never extract, modify, or exfiltrate data without permission
+
+Safety Measures
+⚠️ Avoid scanning:
+
+Medical systems
+
+Industrial control systems
+
+Emergency services
+
+Any life-critical infrastructure
+
