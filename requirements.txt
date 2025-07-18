@@ -1,0 +1,8 @@
+# Core dependencies (MUST include these)
+colorama==0.4.4       # For colored terminal output
+pyfiglet==0.8.post1   # For ASCII banners
+requests==2.26.0      # For CVE API lookups
+
+# Optional (uncomment if needed later)
+# python-nmap==0.7.1           # For advanced Nmap integration
+# metasploit-msfrpc==1.0.3     # For Metasploit automation
