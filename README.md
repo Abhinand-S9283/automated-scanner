@@ -1,9 +1,6 @@
 # automated-scanner
 Automated Scanner is a Python-based tool that automates web vulnerability scanning using tools like Nmap, Nikto, and Gobuster. It helps detect open ports, missing headers, and common flaws, offering multiple scan modes and organized output for efficient security analysis.
 # Automated Vulnerability Scanner
-
-![Banner](https://i.imgur.com/JQ7w3B2.png)
-
 An advanced, multi-threaded vulnerability scanner with automated exploitation capabilities. This tool combines various security tools into a unified interface with enhanced reporting and safety features.
 
 ## Features
